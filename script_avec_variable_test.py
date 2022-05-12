@@ -48,7 +48,7 @@ def flatten(json_obj: list) -> str:
 
 json_obj = [
     {
-        "ip": "185.60.94.33",
+        "ip": ".60.94.33",
         "scan_list": [
             {
                 "scan_name": "syn",
@@ -139,7 +139,7 @@ json_obj = [
         ]
     },
     {
-        "ip": "185.60.94.34",
+        "ip": ".60.94.34",
         "scan_list": [
             {
                 "scan_name": "syn",
@@ -230,7 +230,7 @@ json_obj = [
         ]
     },
     {
-        "ip": "185.60.94.62",
+        "ip": ".60.94.62",
         "scan_list": [
             {
                 "scan_name": "syn",
@@ -255,7 +255,7 @@ json_obj = [
         ]
     },
     {
-        "ip": "127.0.0.1",
+        "ip": ".0.0.1",
         "scan_list": [
             {
                 "scan_name": "os_scan",
@@ -271,7 +271,7 @@ json_obj = [
         ]
     },
     {
-        "ip": "127.0.0.1",
+        "ip": ".0.0.1",
         "scan_list": [
             {
                 "scan_name": "cve",
